@@ -30,4 +30,4 @@ Open and run:
 
 ## Authors
 
-Sarathi T S
+- **Sarathi Thirumalai Soundararajan** - [tssarathi5901@gmail.com](mailto:tssarathi5901@gmail.com)
