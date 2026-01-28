@@ -3,3 +3,6 @@ pandas
 
 # -- Jupyter --
 ipykernel
+
+# -- Excel --
+openpyxl
