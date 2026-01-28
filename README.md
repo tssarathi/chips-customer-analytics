@@ -27,3 +27,7 @@ pip install -r requirements.txt
 
 Open and run:
 - `notebooks/pre-processing.ipynb`
+
+## Authors
+
+Sarathi T S
